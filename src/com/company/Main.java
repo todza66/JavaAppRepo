@@ -3,6 +3,11 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        //Printing Hello World
 	System.out.println("Hello World");
+    }
+
+    private void myGreeting(){
+        String message = "Happy Birthday";
     }
 }
