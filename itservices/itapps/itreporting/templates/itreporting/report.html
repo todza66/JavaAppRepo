@@ -1,0 +1,14 @@
+
+{% extends "itreporting/base.html" %}
+{% block content %}
+<h1>Student IT Services - Issues Reported</h1>
+{% for issue in issues %}
+<h3> {{issue.type}} in {{issue.room}}</h3>
+<h4> Reported by {{issue.name}} ({{issue.course}}) on {{issue.date_reported}}</h4>
+    <p>{{issue.details}}</p>
+
+    <hr/>
+
+
+{% endfor %}
+{% endblock content %}

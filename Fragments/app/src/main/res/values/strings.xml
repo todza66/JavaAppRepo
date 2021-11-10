@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Capital Cities</string>
+
+    <string name="capital_city">City</string>
+
+    <string name="country">Country:  %s</string>
+    <string name="population">Population:  %s</string>
+
+    <string name="canberra">Canberra</string>
+    <string name="paris">Paris</string>
+    <string name="auck">Auckland</string>
+    <string name="ott">Ottawa</string>
+    <string name="riga">Riga</string>
+    <string name="cairo">Cairo</string>
+    <string name="london">London</string>
+    <string name="kuala">Kuala Lumpur</string>
+    <string name="lima">Lima</string>
+    <string name="lagos">Lagos</string>
+    <string name="warsaw">Warsaw</string>
+    <string name="pretoria">Pretoria</string>
+    <string name="unknown_capital">Unknown Capital City</string>
+    <string name="auck_pop">222222222222</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
