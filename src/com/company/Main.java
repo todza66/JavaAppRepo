@@ -9,6 +9,6 @@ public class Main {
 
     //Method to display greeting
     private void myGreeting(){
-        String message = "Happy Birthday";
+        String message = "Happy Birthday To You";
     }
 }
