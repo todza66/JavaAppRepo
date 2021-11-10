@@ -7,6 +7,7 @@ public class Main {
 	System.out.println("Hello World");
     }
 
+    //Method to display greeting
     private void myGreeting(){
         String message = "Happy Birthday";
     }
